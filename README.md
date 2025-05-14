@@ -19,10 +19,20 @@ A personal project that implements an Optical Character Recognition (OCR) applic
 - **Page Recognition Model**: DocScanner
 
 ## To run the backend
-- cd backend
+- Change directory to backend
 - Install all the required Python dependencies from the requirements.txt
 - Run the app.py
 ## To run the frontend
-- cd main
-- run the React app: npm start
+- Change directory  to main
+- Run the React app: npm start
+## Citation
+I used the DocScanner model from the GitHub repository [https://github.com/fh2019ustc/DocScanner].
+```bibtex
+@article{feng2021docscanner,
+  title={DocScanner: robust document image rectification with progressive learning},
+  author={Feng, Hao and Zhou, Wengang and Deng, Jiajun and Tian, Qi and Li, Houqiang},
+  journal={International Journal of Computer Vision (IJCV)},
+  year={2025}
+}
+
 
