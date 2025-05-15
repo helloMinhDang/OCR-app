@@ -34,5 +34,13 @@ I used the DocScanner model from the GitHub repository [https://github.com/fh201
   journal={International Journal of Computer Vision (IJCV)},
   year={2025}
 }
+```
+## Some preview images of my application
+![](./demo_images/1.jpeg)
+![](./demo_images/2.jpeg)
+![](./demo_images/3.jpeg)
+![](./demo_images/4.jpeg)
+![](./demo_images/5.jpeg)
+
 
 
